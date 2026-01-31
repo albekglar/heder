@@ -4,7 +4,10 @@ import React from 'react'
 const NavBarContaner = ({navprod}) => {
   return (
     <div>
-        {navprod.name}
+        <img src={navprod.image}/>
+        
+      <p>{navprod.name}</p>
+      
     </div>
   )
 }
