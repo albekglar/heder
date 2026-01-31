@@ -1,0 +1,11 @@
+.style2{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 25px;
+    color: grey;
+    padding-top: 25px;
+    padding-right: 20px; 
+    font-size: 15px;
+    background-color: rgb(240, 218, 218);
+}
